@@ -6,7 +6,7 @@ public class TestDAO {
 		FoodDAO dao = new FoodDAO();
 		
 		System.out.println(dao.listAllFood());
-		System.out.println(dao.listAllCondiment());
+		//System.out.println(dao.listAllCondiment());
 
 	}
 
